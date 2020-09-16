@@ -1,0 +1,5 @@
+Get the complete dataset for UCSDped1 and UCSDped2 from this link:
+
+http://www.svcl.ucsd.edu/projects/anomaly/dataset.html
+
+Then seperate both UCSDped1 and UCSDped2 as ordered in Datasets folder.

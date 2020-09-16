@@ -1,0 +1,3 @@
+Download the Avenue Dataset from this link:
+
+http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
