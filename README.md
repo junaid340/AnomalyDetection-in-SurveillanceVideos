@@ -6,5 +6,5 @@ Load all the '.py' files in Spyder, then you first run Preprocessing file that w
 
 # Training Acc & Training Loss
 
-<img src="Avenure Dataset_Loss.png" width="340" height="350">     <img src="USCDped1 Dataset_Loss.png" width="340" height="350">
-<img src="UCSDped2 Dataset_Loss.png" width="340" height="350">    <img src="UCSDped1 Dataset_Accuracy.png" width="340" height="350">
+<img src="Avenue Dataset_Loss.png" width="340" height="350">     <img src="UCSDped1 Dataset_Loss.png" width="340" height="350">
+<img src="UCSDped2 Dataset_Loss.png" width="340" height="350">    <img src="UCSDped2 Dataset_Accuracy.png" width="340" height="350">
